@@ -1,6 +1,6 @@
 {
-  "name": "jsencrypt",
-  "version": "3.0.0-rc.1",
+  "name": "@novawei/jsencrypt",
+  "version": "3.0.0-rc.3",
   "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
   "license": "MIT",
   "main": "bin/jsencrypt.js",
